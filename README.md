@@ -1,6 +1,6 @@
 # C - Sorting algorithms & Big O
 
-In this project, I implemented twelve different sorting algorithms.
+In this my  project, I implemented twelve(20) different sorting algorithms.
 
 ## Tests :heavy_check_mark:
 
